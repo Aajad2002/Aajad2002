@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://media.tenor.com/I5iY9Hj8YGQAAAAj/kroppa-digital.gif)" width="512px"/>
+<img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33be6ace19c29d4e0cec7_LuyYKvSMNsoK3_Kgkfbw9Cwf-vF7gFtOyUnT6TogZ8vuN81S8hQWSTUh4_TpjkdUlQjr_0cOXJL2SyPT4KjX-RAVudOV7AH4JyP3K-zzaYIVCrvIpA31aoqB7dBjwSglYaJuFR4R.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aajad2002&icon=0&color=0)](https://visitcount.itsvg.in)
